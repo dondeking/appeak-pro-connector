@@ -1,0 +1,16 @@
+{
+  "name": "appeak-pro",
+  "description": "Appeak Pro plugins for App Store Optimization.",
+  "owner": {
+    "name": "Appeak Pro LLC",
+    "email": "appeakpro@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "appeak-pro",
+      "source": "./",
+      "description": "App Store Optimization for App Store and Google Play listings: listing audits, metadata checks against store rules, store search ranks, search competitors, a check of whether ChatGPT recommends the app, and the ASO Guide.",
+      "version": "1.0.0"
+    }
+  ]
+}

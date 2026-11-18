@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "appeak-pro": {
+      "type": "http",
+      "url": "https://appeak.pro/api/mcp"
+    }
+  }
+}

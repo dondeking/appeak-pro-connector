@@ -1,0 +1,26 @@
+{
+  "name": "appeak-pro",
+  "version": "1.0.0",
+  "description": "App Store Optimization for App Store and Google Play listings: listing audits, metadata checks against store rules, store search ranks, search competitors, a check of whether ChatGPT recommends the app, and the ASO Guide.",
+  "author": {
+    "name": "Appeak Pro LLC",
+    "email": "appeakpro@gmail.com"
+  },
+  "homepage": "https://appeak.pro/connect",
+  "repository": "https://github.com/dondeking/appeak-pro-connector",
+  "license": "MIT",
+  "keywords": [
+    "aso",
+    "app-store-optimization",
+    "app-store",
+    "google-play",
+    "keywords",
+    "mobile-apps",
+    "app-marketing",
+    "ai-discoverability",
+    "ai-visibility",
+    "geo",
+    "chatgpt"
+  ],
+  "logo": "assets/logo.svg"
+}
